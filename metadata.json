@@ -1,0 +1,6 @@
+{
+  "name": "EventZone",
+  "description": "Platformë moderne për krijimin, menaxhimin dhe rezervimin e biletave për evente dhe koncerte lokale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
